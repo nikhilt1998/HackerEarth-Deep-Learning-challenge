@@ -16,4 +16,8 @@ The dataset consists of two parameters—‘Frame_ID’ that indicates the frame
 The benefits of practicing this problem by using Machine Learning/Deep Learning techniques are as follows:
 
 This challenge will encourage you to apply your Machine Learning skills to build models that analyze and classify frames of videos
-This challenge will help you enhance your knowledge of multi-label image classification actively. It is one of the basic building blocks of Deep Learning
+This challenge will help you enhance your knowledge of multi-label image classification actively. It is one of the basic building blocks of Deep Learning.
+
+
+## References
+Hill, J.W., (2017). Deep Learning for Emotion Recognition in Cartoons

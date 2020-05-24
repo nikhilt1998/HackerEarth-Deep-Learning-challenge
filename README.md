@@ -18,11 +18,12 @@ The benefits of practicing this problem by using Machine Learning/Deep Learning 
 This challenge will encourage you to apply your Machine Learning skills to build models that analyze and classify frames of videos
 This challenge will help you enhance your knowledge of multi-label image classification actively. It is one of the basic building blocks of Deep Learning.
 
+
 ## Running
 Please follow [code.ipynb](https://github.com/nikhilt1998/HackerEarth-Deep-Learning-challenge/tree/master/Hackerearth_Deeplearning_Cartoon) for the results.
 
-## References
-Hill, J.W., (2017). Deep Learning for Emotion Recognition in Cartoons
+
+
 
 ## Future works
 The model could be trained on more videos to get more accurate results.

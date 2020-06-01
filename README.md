@@ -1,4 +1,4 @@
-# HackerEarth-Deep-Learning-challenge
+# HackerEarth-Deep-Learning-challenge (Winner)
 Detect emotions of your favorite toons
 
 ## Problem statement
@@ -21,9 +21,6 @@ This challenge will help you enhance your knowledge of multi-label image classif
 
 ## Running
 Please follow [code.ipynb](https://github.com/nikhilt1998/HackerEarth-Deep-Learning-challenge/tree/master/Hackerearth_Deeplearning_Cartoon) for the results.
-
-
-
 
 ## Future works
 The model could be trained on more videos to get more accurate results.

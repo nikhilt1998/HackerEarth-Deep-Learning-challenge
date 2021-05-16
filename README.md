@@ -1,5 +1,6 @@
 # HackerEarth-Deep-Learning-challenge (Final results - Winner)
 [Detect emotions of your favorite toons](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-emotion-detection-tom-jerry-cartoon/) 
+<img src="Output/ss1.png"> <img src="poster.jpeg">
 
 ## Problem statement:
 There is no one around the world who doesn’t know of the animated comedy series, Tom and Jerry. Let’s admit it—all of us still love the iconic show and wish to catch a glimpse of Tom’s and Jerry’s constant notorious banter. Jerry leaves no stone unturned to annoy Tom—be it getting Tom in trouble with his landlady Mammy Two Shoes and his arch-nemesis Spike, making a fool out of him in front of his love interest Toodles Galore, or beating him for bothering Nibbles or Quaker. No matter what, we always end up laughing till our stomachs hurt.
